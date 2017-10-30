@@ -2,7 +2,7 @@
 
 ![plot1](https://user-images.githubusercontent.com/10912890/32162763-53d592cc-bd17-11e7-8d46-49af34ce01da.png)
 
-This is plot shows the relationship between the amount of ethical, or 'just', company
+This plot shows the relationship between the amount of ethical, or 'just', company
 involvement within a US County, and the degree of income inequality by taking the ratio
 of income at the 80th percentile to income at the 20th percentile within the county.
 
