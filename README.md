@@ -9,5 +9,7 @@ of income at the 80th percentile to income at the 20th percentile within the cou
 Overall, there is a small correlation between 'just company involvement' and the
 'income inequality ratio' within a given county. This is just a relationship within
 a single time point of census data and 'Just Capital's ranking of companies, so
-causality can not be reasonably inferred. However, the relationship does indicate
-searching for such causality may be a successful endeavor.
+causality can not be reasonably inferred. However, the presence of significant
+relationships between ranking and income inequality indicate that searching for an
+indication of causality by comparing change in income inequality over the tenure
+of a company's presence is a promising project.
